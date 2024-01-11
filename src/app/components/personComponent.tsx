@@ -13,9 +13,9 @@ const PersonComponent = () => {
   const [code, setCode] = useState(`
 let person = new Person({ name: 'Pessoa' });
 
-//person = new PersonHatDecorator(person).dress(person);
-//person = new PersonShirtDecorator(person).dress(person);
-//person = new PersonPantsDecorator(person).dress(person);
+//person = new PersonHatDecorator().dress(person);
+//person = new PersonShirtDecorator().dress(person);
+//person = new PersonPantsDecorator().dress(person);
 
 setPerson(person);
 `)

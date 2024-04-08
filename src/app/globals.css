@@ -44,7 +44,7 @@ body {
 
 .Hat {
   width: 200px;
-  top: 3%;
+  top: 10%;
   left: 29%;
 }
 
@@ -58,5 +58,5 @@ body {
 .Pants {
   width: 170px;
   left: 32%;
-  bottom: 18%;
+  bottom: 22%;
 }
